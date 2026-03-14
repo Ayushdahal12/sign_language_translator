@@ -1,5 +1,5 @@
 # 🤟 Sign Language Translator
-### Final Year Project — Computer Vision & NLP
+ Computer Vision & NLP
 
 A real-time sign language translator that detects hand gestures via webcam and converts them into **text and speech output** — built with Python, MediaPipe, and Streamlit.
 
@@ -19,7 +19,7 @@ A real-time sign language translator that detects hand gestures via webcam and c
 
 ---
 
-## 🚀 Quick Start
+
 
 ### 1. Install dependencies
 ```bash
@@ -119,7 +119,7 @@ def _rule_hello(self, hands):
 
 ---
 
-## 🤖 Training Your Own Gestures
+ Training Your Own Gestures
 
 ### Step 1: Collect training data
 ```bash
@@ -141,7 +141,7 @@ The trained model is saved to `models/gesture_model.pkl` and automatically loade
 
 ---
 
-## 📈 Technical Specifications
+## Technical Specifications
 
 | Component | Technology |
 |---|---|
@@ -156,17 +156,6 @@ The trained model is saved to `models/gesture_model.pkl` and automatically loade
 
 ---
 
-## 🔮 Future Improvements
-
-- [ ] Mobile app (Flutter/React Native)
-- [ ] Nepali Sign Language support
-- [ ] Deep learning model (CNN/LSTM) for higher accuracy
-- [ ] Dynamic gestures (motion-based words)
-- [ ] Two-way communication mode
-- [ ] Larger vocabulary (100+ words)
-- [ ] Sentence grammar correction with NLP
-
----
 
 ## 👨‍🎓 Academic Context
 
@@ -178,4 +167,3 @@ This project demonstrates the intersection of:
 
 ---
 
-*Built with ❤️ for the Final Year Project*
