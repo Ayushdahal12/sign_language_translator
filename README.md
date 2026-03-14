@@ -36,7 +36,7 @@ Navigate to `http://localhost:8501`
 
 ---
 
-## 🎯 Gesture Reference
+##  Gesture Reference
 
 | Gesture | How to do it |
 |---|---|
@@ -153,17 +153,4 @@ The trained model is saved to `models/gesture_model.pkl` and automatically loade
 | UI Framework | Streamlit 1.28+ |
 | Feature Vector | 63-dim (21 landmarks × 3 coords) |
 | Input | 640×480 webcam @ 30 FPS |
-
----
-
-
-## 👨‍🎓 Academic Context
-
-This project demonstrates the intersection of:
-- **Computer Vision** — real-time hand tracking
-- **Machine Learning** — gesture classification
-- **Human-Computer Interaction** — accessibility tool
-- **Natural Language Processing** — text-to-speech synthesis
-
----
 
